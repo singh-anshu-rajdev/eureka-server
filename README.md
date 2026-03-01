@@ -292,6 +292,14 @@ This project is part of SmartBank Elite System.
 
 For issues, questions, or contributions related to the Eureka Server, please reach out to the development team.
 
+## Developer
+
+**Name:** Anshu Singh  
+**Email:** singh.anshu.rajdev@gmail.com  
+**Role:** Development Team - SmartBank Elite System
+
+For any inquiries or support, feel free to reach out via email.
+
 ---
 
 **SmartBank Elite System** - Microservices Architecture with Service Registry & Discovery
