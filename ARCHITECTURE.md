@@ -989,5 +989,5 @@ The Eureka Server is essential for enabling dynamic service discovery, load bala
 
 **Document Version**: 1.0  
 **Last Updated**: March 1, 2026  
-**Maintained By**: SmartBank Elite Development Team
+**Maintained By**: Anshu Singh
 
